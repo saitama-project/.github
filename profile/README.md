@@ -14,7 +14,7 @@
 
 ## 🚀 Quem Somos
 
-A **Saitama Org** nasceu para combinar **Inteligência Artificial, observabilidade e automação** em ambientes híbridos (on‑prem + cloud). Inspirados na filosofia de que *“a verdadeira força vem da simplicidade”*, criamos ferramentas que entregam resultados rápidos, estáveis e mensuráveis.
+A **Saitama Project** nasceu para combinar **Inteligência Artificial, observabilidade e automação** em ambientes híbridos (on‑prem + cloud). Inspirados na filosofia de que *“a verdadeira força vem da simplicidade”*, criamos ferramentas que entregam resultados rápidos, estáveis e mensuráveis.
 
 ---
 
