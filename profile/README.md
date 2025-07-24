@@ -26,3 +26,4 @@ A **Saitama Org** nasceu para combinar **Inteligência Artificial, observabilida
 ![Elastic](https://img.shields.io/badge/ElasticSearch-Logs-yellow?style=for-the-badge&logo=elastic&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Traces-purple?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
